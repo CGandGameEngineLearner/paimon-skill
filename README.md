@@ -269,6 +269,11 @@ python main.py buttons
 
 感谢 BetterGI 项目的开源贡献！
 
+## 🌐 开源仓库
+
+- **派蒙.skill**：[https://github.com/CGandGameEngineLearner/paimon-skill.git](https://github.com/CGandGameEngineLearner/paimon-skill.git)
+- **play-any-game**：[https://github.com/CGandGameEngineLearner/play-any-game.git](https://github.com/CGandGameEngineLearner/play-any-game.git)
+
 ## 📝 许可证
 
 [LICENSE](LICENSE)

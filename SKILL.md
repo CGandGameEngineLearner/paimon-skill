@@ -357,6 +357,11 @@ python main.py capture "原神"
 
 感谢 BetterGI 项目的开源贡献！
 
+## 🌐 开源仓库
+
+- **派蒙.skill**：[https://github.com/CGandGameEngineLearner/paimon-skill.git](https://github.com/CGandGameEngineLearner/paimon-skill.git)
+- **play-any-game**：[https://github.com/CGandGameEngineLearner/play-any-game.git](https://github.com/CGandGameEngineLearner/play-any-game.git)
+
 ---
 
 ## 🔗 与 play-any-game 的关系
